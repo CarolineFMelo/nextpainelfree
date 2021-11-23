@@ -94,7 +94,7 @@ const Register = () => {
                 color="textPrimary"
                 variant="h4"
               >
-                Create a new account
+                Crie uma nova conta 
               </Typography>
               <Typography
                 color="textSecondary"
